@@ -14,7 +14,7 @@
 
 * 12:30–13:30 Lunch
 
-* 13:30-13:45 Welcome
+* 13:30-13:45 Welcome - looking back and forward
 
 * 13:45 14:10 Testerep - Yağız Arda Çiçek, Hydraulics and Geotechnics
 
