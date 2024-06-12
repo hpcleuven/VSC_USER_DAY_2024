@@ -1,7 +1,6 @@
-# VSC_USER_DAY_2024
-## KULeuven/UHasselt VSC User Day 13.06.2024
+# KULeuven/UHasselt VSC User Day 13.06.2024
 
-### Program
+## Program
 
 * 9:30-10:00 Coffee and registration
 
