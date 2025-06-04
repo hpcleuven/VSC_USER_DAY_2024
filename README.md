@@ -1,4 +1,4 @@
-# KULeuven/UHasselt VSC User Day 13.06.2024
+# KULeuven/UHasselt Tier-2 HPC User Day June 13, 2025
 
 ## Program
 
