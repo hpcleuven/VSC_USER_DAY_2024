@@ -1,4 +1,4 @@
-# KULeuven/UHasselt Tier-2 HPC User Day June 13, 2025
+# KULeuven/UHasselt Tier-2 HPC User Day June 13, 2024
 
 ## Program
 
